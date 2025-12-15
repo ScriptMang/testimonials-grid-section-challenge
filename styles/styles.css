@@ -5,6 +5,10 @@ main {
     gap: 13px;
 }
 
+.profile-pic {
+    border-radius: 30px;
+}
+
 #testimony-1 {
     display: grid;
     grid-column: 2/4;
